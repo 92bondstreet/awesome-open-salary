@@ -26,6 +26,7 @@
 * [Buffer's Transparent Salary Calculator](https://buffer.com/salary)
 * [Gitlab - Global Compensation Calculator](https://about.gitlab.com/2018/03/23/gitlabs-global-compensation-calculator-the-next-iteration)
 * [Openclassrooms - Evolution And Salary](https://openclassrooms.com/en/courses/3851206-how-do-we-work-at-openclassrooms/4018546-evolution-and-salary)
+* [Pay Gap Remediation Cost Calculator](https://olgadimitrovagit.github.io/comp-budget-lab/pay-gap-calculator/) - What closing the unexplained gender pay gap costs, under EU Directive 2023/970
 * [Payfit - Modèle de rémunération : pourquoi et comment l'élaborer ?](https://blog.payfit.com/modele-de-remuneration.html)
 * [Stackoverflow - How We Pay](https://stackoverflow.com/company/salary/calculator)
 
